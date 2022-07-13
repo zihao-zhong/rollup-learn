@@ -1,0 +1,5 @@
+{
+  "presets": ["@babel/preset-env"]
+  // "presets": ["es2015-rollup"]
+  // "presets": ["@babel/preset-env", "es2015-rollup"]
+}
